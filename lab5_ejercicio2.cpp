@@ -7,14 +7,14 @@ int main()
 	float flotante = 21.88;
 	double doble = 98.555166;
 	char caracter[10] = "caracter";
-	string cadena = "palabritas string";
+	string texto = "palabritas string";
 	bool booleano = false;
 	
-	cout << "int: " << entero;
-	cout << "float: " << flotante;
-	cout << "double: " << doble;
-	cout << "char: " << caracter;
-	cout << "string: " << cadena;
+	cout << "int: " << entero << endl;
+	cout << "float: " << flotante << endl;
+	cout << "double: " << doble << endl;
+	cout << "char: " << caracter << endl;
+	cout << "string: " << texto << endl;
 	cout << "bool: " << booleano;
 	
 	return 0;
